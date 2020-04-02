@@ -1,1 +1,1 @@
-# ksu-coursework
+# Course work at Kennesaw State University
